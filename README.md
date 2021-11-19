@@ -130,4 +130,4 @@ Hope it helps you.
 
 # To do 
 
-Implementing / fixing the downloading issue for the files which cant be previewed. 
+~Implementing / fixing the downloading issue for the files which cant be previewed.~ Done

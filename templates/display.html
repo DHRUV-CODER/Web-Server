@@ -89,11 +89,6 @@
     </style>
   </head>
   <body>
-    {% if not in_text %}
-    <center>
-      <h1>Such Files Can't Be Previwed</h1>
-    </center>
-    {% else %}
     <div class="wrapper">
       <div class="line-numbers">
         {% for i in range(No_of_lines) %}
@@ -102,6 +97,5 @@
       </div>
       <pre><code id="code-display">{{in_text}}</code></pre>
     </div>
-    {% endif %}
   </body>
 </html>

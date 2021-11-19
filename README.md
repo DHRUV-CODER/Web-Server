@@ -23,7 +23,7 @@ Open the **exe** and wait till it is Hosted on port **5000**
 
 ![image](https://user-images.githubusercontent.com/60794694/142604224-0dfd596b-812d-4fb6-a433-a6a78fe1ac98.png)
 
-After that , open you preferred Browser and go to [127.0.0.1:5000](http://127.0.0.1:5000/) or [localhost:5000](http://localhost:5000/)
+After that , open your preferred Browser and go to [127.0.0.1:5000](http://127.0.0.1:5000/) or [localhost:5000](http://localhost:5000/)
 
 There you can see all the files and folders 
 

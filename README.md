@@ -57,6 +57,9 @@ Well these were some of the features .
 
 **Click allow**
 
+![image](https://user-images.githubusercontent.com/60794694/142611839-d84f56dc-7a15-47c2-923a-80c2062094ab.png)
+
+**Note:** For you the url might be different
 And that is your url , now you can use this url to visit on other device
 
 # or , if you can't find the url

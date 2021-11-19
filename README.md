@@ -123,9 +123,9 @@ Copy the url  provided by ngrok , now you can share / view it publicly.
 To close it , simply press `ctrl+c`
 
 # Bonus
-There is a inbuilt cli command , which will provide you with web server, it is uglier and not that useful .
+There is a inbuilt cli command avail with python , which will provide you with web server, it is bit uglier and not that useful for sharing purposes.
 
-Commands : `python3 -m http.server 5000`
+Command : `python3 -m http.server 5000`
 
 You just need python for this. 
 

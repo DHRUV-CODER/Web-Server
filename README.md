@@ -49,6 +49,14 @@ Well these were some of the features .
 # Below feature is yet to be implemented
 # I want to share it on my local network , how do i visit on other device ?
 
+![image](https://user-images.githubusercontent.com/60794694/142610960-3b1377b8-4be5-4600-addd-acb62a0c5701.png)
+
+**Click allow**
+
+And that is your url , now you can use this url to visit on other device
+
+# or , if you can't find the url
+
 Well it is pretty simple , Find you hosted device's physical address  and put `:5000` behind it .
 
 **For Eg:**

@@ -8,7 +8,7 @@ Using this you can save time and all the hassle of sharing is gone.
 
 # Run using python
 
-# scroll down for exe , if you don't have python installed
+## scroll down for exe , if you don't have python installed
 
 1) Git clone the [repo](https://github.com/DHRUV-CODER/Web-Server.git) or  [Download the zip](https://github.com/DHRUV-CODER/Web-Server/archive/refs/heads/main.zip)
 
@@ -16,7 +16,7 @@ Using this you can save time and all the hassle of sharing is gone.
 
 3) Website will be **available** on : [localhost](http://localhost:5000/)
 
-# Scroll below to know how to share it locally / publicly.
+## Scroll below to know how to share it locally / publicly.
 
 # Steps to Download the exe
 

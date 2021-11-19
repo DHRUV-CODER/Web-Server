@@ -21,9 +21,14 @@ Example : Desktop
 
 Open the **exe** and wait till it is Hosted on port **5000** 
 
-![image](https://user-images.githubusercontent.com/60794694/142604224-0dfd596b-812d-4fb6-a433-a6a78fe1ac98.png)
+![image](https://user-images.githubusercontent.com/60794694/142611196-ae0c5b9c-dedf-44f3-82a3-e1fdac4964fc.png)
 
-After that , open your preferred Browser and go to [127.0.0.1:5000](http://127.0.0.1:5000/) or [localhost:5000](http://localhost:5000/)
+**Click allow if you want to use it on other device**
+
+![image](https://user-images.githubusercontent.com/60794694/142611295-d4d848db-a83b-4865-92ac-6415db691b8d.png)
+
+
+After that , open your preferred Browser and go to [127.0.0.1:5000](http://127.0.0.1:5000/) or [localhost:5000](http://localhost:5000/) , **Only visitable on hosted device**
 
 There you can see all the files and folders 
 
@@ -46,7 +51,6 @@ There are some file which cant be previewed , instead you can download it  and u
 
 Well these were some of the features .
 
-# Below feature is yet to be implemented
 # I want to share it on my local network , how do i visit on other device ?
 
 ![image](https://user-images.githubusercontent.com/60794694/142610960-3b1377b8-4be5-4600-addd-acb62a0c5701.png)

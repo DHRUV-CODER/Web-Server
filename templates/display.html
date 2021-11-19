@@ -91,14 +91,7 @@
   <body>
     {% if not in_text %}
     <center>
-      <h1>Such Files Can't Be Previwed , You can Download instead.</h1>
-      <a
-        href="./{{request.args.get('file')}}"
-        download="{{request.args.get('file')}}"
-      >
-        <i class="fas fa-file-download"></i>
-        {{request.args.get('file')}}</a
-      >
+      <h1>Such Files Can't Be Previwed</h1>
     </center>
     {% else %}
     <div class="wrapper">

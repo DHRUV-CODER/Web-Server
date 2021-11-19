@@ -127,3 +127,7 @@ You just need python for this.
 Well that it for the steps . If you find any typos , feel free to send a pull request.
 
 Hope it helps you. 
+
+# To do 
+
+Implementing / fixing the downloading issue for the files which cant be previewed. 

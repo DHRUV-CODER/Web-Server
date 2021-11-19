@@ -59,7 +59,7 @@ You can open `cmd` or `powershell` upto you, and type `ipconfig` there you can f
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/60794694/142606159-ddc9aaa8-733c-46f0-9c04-0bea6f8b7dd8.png">
 
  In my case it is `192.168.100.3` , so to visit the webserver put  port `:5000` behind it . Final uri `192.168.100.3:5000`
-# I want to share it publicly to my friends and colleagues ? How do ?
+# I want to share it publicly to my friends and colleagues ? How do i ?
 
 One way can be port forwarding and stuff . Which is pretty boring and complex.
 

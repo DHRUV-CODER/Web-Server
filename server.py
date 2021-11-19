@@ -1,5 +1,5 @@
 from pathlib import Path
-from flask import Flask, render_template, request, render_template_string
+from flask import Flask, render_template, request, render_template_string , send_file
 import os
 app = Flask(__name__)
 
@@ -20,7 +20,7 @@ def view():
                 No_of_lines = len(in_text.split("\n"))
                 return render_template("display.html", in_text=in_text, os=os, No_of_lines=No_of_lines)
         except:
-            return render_template("display.html", in_text=None, request=request, os=os)
+            return send_file(f"./{filename}",as_attachment=True)
     elif os.path.isdir(filename):
         FILENAME = os.listdir(filename)
         return render_template("folder.html", FILENAME=FILENAME, request=request, os=os)

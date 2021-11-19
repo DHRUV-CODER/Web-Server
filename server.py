@@ -26,5 +26,5 @@ def view():
         return render_template("folder.html", FILENAME=FILENAME, request=request, os=os)
 
 
-app.run(port=5000,
+app.run(port=5000,host='0.0.0.0',
         debug=True)

@@ -54,13 +54,6 @@ We also support syntax highlighting which makes the content inside more readable
 
 ![image](https://user-images.githubusercontent.com/60794694/142605205-59267dec-71b2-4889-a688-47d46201c5b6.png)
 
-There are some file which cant be previewed , instead you can download it  and use.
-
-![image](https://user-images.githubusercontent.com/60794694/142605386-1d9e09a7-027d-4e2c-9af4-1679ed43430c.png)
-
-<img width="957" alt="image" src="https://user-images.githubusercontent.com/60794694/142605557-1fac2a86-c922-4e7d-9ec0-827e65aa6866.png">
-
-
 Well these were some of the features .
 
 # I want to share it on my local network , how do i visit on other device ?

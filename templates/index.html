@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{FILENAME|length}} Results</title>
+    <script src="https://kit.fontawesome.com/61ddec8850.js" crossorigin="anonymous"></script>
+    <style>
+      body {
+        background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        color: white;
+        font-family: monospace;
+        font-size: 35px;
+      }
+      /* i {
+        color: coral;
+      } */
+      a {
+        text-decoration: none;
+      }
+      /* Works on Firefox */
+      * {
+        scrollbar-width: thin;
+        scrollbar-color: grey black;
+      }
+
+      /* Works on Chrome, Edge, and Safari */
+      *::-webkit-scrollbar {
+        width: 7px;
+      }
+
+      *::-webkit-scrollbar-track {
+        background: black;
+      }
+
+      *::-webkit-scrollbar-thumb {
+        background-color: grey;
+        border-radius: 20px;
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+      {% for file in FILENAME %}
+        {% if os.path.isdir(file) %}
+          <a href="/view?file={{file}}">
+            <span style="color: coral;"><i class="fas fa-folder-plus fa-small"></i></span>
+            </i>
+            <span style="color: aquamarine;">{{file}}</span></a>
+          <br />
+        {% else %}
+          <a href="/view?file={{file}}">
+            <span style="color:bisque;"><i class="fas fa-file-alt fa-0.5x"></i></span>
+            <span style="color: greenyellow;">{{file}}</span></a></a>
+            <br />
+        {% endif %}
+      {% endfor %}
+  </body>
+</html>

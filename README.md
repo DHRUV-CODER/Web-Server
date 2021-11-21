@@ -1,5 +1,14 @@
 ![ezgif-2-7a1f23866be4](https://user-images.githubusercontent.com/60794694/142751034-82d52634-4773-4f4d-a0f7-fc46b1ca90bf.gif)
 
+# Topic Covered
+
+- About
+- Security Risks
+- Running using python
+- Using exe if python is not installed
+- Accessing on local network
+- Making it publicly available
+
 # About 
 
 > This is a simple Web Server to view/share your file on your local network.

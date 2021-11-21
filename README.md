@@ -7,6 +7,11 @@
 
 > Using this you can save time and all the hassle of sharing is gone.
 
+# Security Risks ?
+> Don't Run this on a local/public(starbucks,airport wifi etc..)wifi network , as other can visit and view the content 
+> If you want to access only on you hosted device for some reason then remove [`host=0.0.0.0,`](https://github.com/DHRUV-CODER/Web-Server/blob/main/server.py#L29)
+> If your running on your personal wifi and only trusted users are connected to your wifi , then no worries . **Hakuna Matata**
+
 # Run using python
 
 ## scroll down for exe , if you don't have python installed

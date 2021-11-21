@@ -7,8 +7,6 @@
 
 > Using this you can save time and all the hassle of sharing is gone.
 
-<details>
-<summary>Security Risks?</summary>
 # Security Risks ?
 > Don't Run this on a public wifi ie:(starbucks,airport wifi etc..), as other can visit and view the content.
 > 
@@ -16,7 +14,7 @@
 > 
 > If your running on your personal wifi and only trusted users are connected to your wifi , then no worries . **Hakuna Matata**
 > 
-</details>
+
 # Run using python
 
 ## scroll down for exe , if you don't have python installed

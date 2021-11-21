@@ -2,12 +2,16 @@
 
 # Topic Covered
 
-- About
-- Security Risks
-- Running using python
-- Using exe if python is not installed
-- Accessing on local network
-- Making it publicly available
+- [About](https://github.com/DHRUV-CODER/Web-Server#about)
+- [Security Risks](https://github.com/DHRUV-CODER/Web-Server#security-risks-)
+- [Running using python](https://github.com/DHRUV-CODER/Web-Server#run-using-python)
+- [Steps to download exe](https://github.com/DHRUV-CODER/Web-Server#steps-to-download-the-exe)
+- [Using exe if python is not installed](https://github.com/DHRUV-CODER/Web-Server#steps-to-download-the-exe)
+- [Accessing on local network](https://github.com/DHRUV-CODER/Web-Server#i-want-to-share-it-on-my-local-network--how-do-i-visit-on-other-device-)
+- [Finding Hosted Device's physical address](https://github.com/DHRUV-CODER/Web-Server#or--if-you-cant-find-the-url)
+- [Making it publicly available](https://github.com/DHRUV-CODER/Web-Server#i-want-to-share-it-publicly-to-my-friends-and-colleagues--how-do-i-)
+- [Bonus](https://github.com/DHRUV-CODER/Web-Server#bonus)
+- [Credits](https://github.com/DHRUV-CODER/Web-Server#credits)
 
 # About 
 

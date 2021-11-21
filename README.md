@@ -13,14 +13,14 @@
 - [Bonus](https://github.com/DHRUV-CODER/Web-Server#bonus)
 - [Credits](https://github.com/DHRUV-CODER/Web-Server#credits)
 
-![ezgif-2-7a1f23866be4](https://user-images.githubusercontent.com/60794694/142751034-82d52634-4773-4f4d-a0f7-fc46b1ca90bf.gif)
-
 # About 
 
 > This is a simple Web Server to view/share your file on your local network.
 > You can potentially use this to open a file/folder on your other device without worrying about sending/downloading on the device.
 
 > Using this you can save time and all the hassle of sharing is gone.
+
+![ezgif-2-7a1f23866be4](https://user-images.githubusercontent.com/60794694/142751034-82d52634-4773-4f4d-a0f7-fc46b1ca90bf.gif)
 
 # Security Risks ?
 > Don't Run this on a public wifi ie:(starbucks,airport wifi etc..), as other can visit and view the content.

@@ -151,3 +151,7 @@
 # To do 
 
 ~Implementing / fixing the downloading issue for the files which cant be previewed.~ Done
+
+# Credits
+
+### [Dhruv](https://github.com/DHRUV-CODER/)

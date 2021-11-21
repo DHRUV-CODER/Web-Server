@@ -33,7 +33,11 @@
 # Run using python
 
 > 1) Git clone the [repo](https://github.com/DHRUV-CODER/Web-Server.git) or  [Download the zip](https://github.com/DHRUV-CODER/Web-Server/archive/refs/heads/main.zip)
->
+```
+git clone https://github.com/DHRUV-CODER/Web-Server.git`
+cd .\Web-Server
+python3 .\server.py
+```
 > 2) Run `python3 server.py`
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**

@@ -1,6 +1,6 @@
-![ezgif-2-7a1f23866be4](https://user-images.githubusercontent.com/60794694/142751034-82d52634-4773-4f4d-a0f7-fc46b1ca90bf.gif)
+# Topics Covered
 
-# Topic Covered
+> **`Click and go`**
 
 - [About](https://github.com/DHRUV-CODER/Web-Server#about)
 - [Security Risks](https://github.com/DHRUV-CODER/Web-Server#security-risks-)
@@ -12,6 +12,8 @@
 - [Making it publicly available](https://github.com/DHRUV-CODER/Web-Server#i-want-to-share-it-publicly-to-my-friends-and-colleagues--how-do-i-)
 - [Bonus](https://github.com/DHRUV-CODER/Web-Server#bonus)
 - [Credits](https://github.com/DHRUV-CODER/Web-Server#credits)
+
+![ezgif-2-7a1f23866be4](https://user-images.githubusercontent.com/60794694/142751034-82d52634-4773-4f4d-a0f7-fc46b1ca90bf.gif)
 
 # About 
 

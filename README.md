@@ -8,7 +8,7 @@
 > Using this you can save time and all the hassle of sharing is gone.
 
 # Security Risks ?
-> Don't Run this on a local/public(starbucks,airport wifi etc..)wifi network , as other can visit and view the content 
+> Don't Run this on a public wifi ie:(starbucks,airport wifi etc..), as other can visit and view the content.
 > 
 > If you want to access only on you hosted device for some reason then remove [`host=0.0.0.0,`](https://github.com/DHRUV-CODER/Web-Server/blob/main/server.py#L29)
 > 

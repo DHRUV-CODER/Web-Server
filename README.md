@@ -36,9 +36,9 @@
 ```
 git clone https://github.com/DHRUV-CODER/Web-Server.git
 cd .\Web-Server
-python3 .\server.py
+py .\server.py
 ```
-> 2) Run `python3 server.py`
+> 2) Run `py server.py`
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**
 

@@ -37,11 +37,12 @@
 git clone https://github.com/DHRUV-CODER/Web-Server.git
 cd .\Web-Server
 ```
-For Linux (**Requires Python3 to be installed**)
+### For Linux (**Requires Python3 to be installed**)
 ```
 pip3 install flask
-python3 .\server.py```
-or on other os
+python3 .\server.py
+```
+### or on other os
 ```
 pip install flask
 py .\server.py

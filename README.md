@@ -39,9 +39,11 @@ cd .\Web-Server
 ```
 For Linux (**Requires Python3 to be installed**)
 `pip3 install flask`
+
 `python3 .\server.py`
 or on other os
-`pip install flask``
+`pip install flask`
+
 `py .\server.py`
 
 

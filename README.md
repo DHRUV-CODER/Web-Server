@@ -50,6 +50,9 @@ py .\server.py
 > 2) After Running the server.py
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**
+# Use of [m_server.py](https://github.com/DHRUV-CODER/Web-Server/blob/main/m_server.py)?
+
+> m_server.py is a single version of the server.py , with the code minimized . [m_server.py](https://github.com/DHRUV-CODER/Web-Server/blob/main/m_server.py) doesn't require the templates folder . So if you want it clean and the work to be done with single file , use [m_server.py](https://github.com/DHRUV-CODER/Web-Server/blob/main/m_server.py) and feel free to delete the rest of the files & folder
 
 # Steps to Download the exe (Only for Windows user)
 

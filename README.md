@@ -38,15 +38,14 @@ git clone https://github.com/DHRUV-CODER/Web-Server.git
 cd .\Web-Server
 ```
 For Linux (**Requires Python3 to be installed**)
-`pip3 install flask`
-
-`python3 .\server.py`
+```
+pip3 install flask
+python3 .\server.py```
 or on other os
-`pip install flask`
-
-`py .\server.py`
-
-
+```
+pip install flask
+py .\server.py
+```
 > 2) Run `py server.py`
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**

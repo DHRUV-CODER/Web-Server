@@ -51,7 +51,7 @@ py .\server.py
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**
 
-# Steps to Download the exe
+# Steps to Download the exe (Only for Windows user)
 
 > **Download the latest exe from [Here](https://github.com/DHRUV-CODER/Web-Server/releases/tag/exe)**
 

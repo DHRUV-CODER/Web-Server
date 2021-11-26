@@ -54,7 +54,8 @@ py .\server.py
 
 > m_server.py is a single version of the server.py , with the code minimized . [m_server.py](https://github.com/DHRUV-CODER/Web-Server/blob/main/m_server.py) doesn't require the templates folder . So if you want it clean and the work to be done with single file , use [m_server.py](https://github.com/DHRUV-CODER/Web-Server/blob/main/m_server.py) and feel free to delete the rest of the files & folder
 
-# Steps to Download the exe (Only for Windows user)
+# Steps to Download the exe 
+### NOTE: To run the exe on LINUX , give the exe file the permission to run. else it wont run  , Can't get it to work [CLICK ME FOR A TUTORIAL](https://www.youtube.com/watch?v=EY8H4WnuDrU) 
 
 > **Download the latest exe from [Here](https://github.com/DHRUV-CODER/Web-Server/releases/tag/exe)**
 

@@ -47,7 +47,7 @@ python3 .\server.py
 pip install flask
 py .\server.py
 ```
-> 2) Run `py server.py`
+> 2) After Running the server.py
 >
 > 3) Website will be **available** on : **[localhost](http://localhost:5000/)**
 

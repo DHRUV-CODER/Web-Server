@@ -10,6 +10,12 @@ def Home():
     return render_template("index.html", FILENAME=FILENAME, request=request, os=os)
 
 
+
+@app.route('/download')
+def download():
+    filename = request.args.get('file')
+    return send_file(f"./{filename}",as_attachment=True)
+
 @app.route('/view')
 def view():
     filename = request.args.get('file')

@@ -48,6 +48,9 @@
           <a href="/view?file={{request.args.get('file')}}/{{file}}"><span style="color:bisque;"><i class="fas fa-file-alt fa-0.5x"></i></span> 
             <span style="color: greenyellow;">{{file}}</span>
           </a>
+          <a href="/download?file={{request.args.get('file')}}/{{file}}">
+            <i style="color:whitesmoke;" class="fas fa-download fa-small"></i>
+          </a>
           <br />
         {% else %}
         <a href="/view?file={{request.args.get('file')}}/{{file}}"><span style="color: coral;"><i class="fas fa-folder-plus fa-small"></i></span>
